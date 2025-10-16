@@ -1,0 +1,12 @@
+
+// TriggerTest.java
+// Jira Issue Key: TFP-15
+
+public class TriggerTest {
+
+    public static void main(String[] args) {
+        System.out.println("TFP-15 Change Request Implementation Code Started.");
+        System.out.println("Jira Workflow Branch Trigger is active.");
+        System.out.println("Implementation complete. Ready to merge Pull Request.");
+    }
+}
